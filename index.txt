@@ -1,0 +1,5 @@
+Java Interview Questions
+What is Java?
+Answer: Java is a high-level, object-oriented programming language.
+What are the features of Java?
+Answer: Java is platform-independent, object-oriented, and has automatic memory management.
